@@ -43,7 +43,7 @@ const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Backend Developer",
     icon: webd,
   },
   {
@@ -219,7 +219,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/yashsayy02/my-portfolio",
   }/* ,
   {
     name: "Job IT",

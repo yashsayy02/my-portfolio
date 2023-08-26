@@ -15,7 +15,8 @@ const About = () => {
             </motion.div>
 
             <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-5 text-secondary text-[17px] max-w-5xl leading-[30px]'>
-                As a junior Front-End Developer, i possess an impressive arsenal of skills in HTML, CSS, JavaScript, React and Tailwind. i excel in designing and maintaining responsive websites that offer smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
+                As a junior Full-Stack Web Developer, I possess a comprehensive skill set spanning both the front-end and back-end aspects of web development. My proficiency includes a range of technologies such as HTML, CSS, JavaScript, React, Node.js, Express.js, and database management. I excel not only in designing and maintaining responsive front-end interfaces but also in building dynamic and scalable back-end systems that power seamless user experiences.
+                Thriving in cross-functional teams, I collaborate seamlessly with designers and developers, contributing to the full development cycle. I integrate cutting-edge tools and techniques, delivering high-quality solutions that exceed user expectations.
             </motion.p>
 
             <div className='flex flex-wrap mt-20 gap-10'>
