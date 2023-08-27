@@ -220,7 +220,29 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/yashsayy02/my-portfolio",
-  }/* ,
+  },
+  {
+    name: "Promptopia",
+    description:
+      "Promptopia is an AI prompting tool for modern world to discover, create and share creative pormpt",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "next.js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/",
+  },
+  /* ,
   {
     name: "Job IT",
     description:
