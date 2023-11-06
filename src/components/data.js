@@ -23,7 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
-  nextjs
+  nextjs,
+  chatapp
 } from "../assets";
 
 const navLinks = [
@@ -240,30 +241,38 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/yashsayy02/prompt-app",
   },
-  /* ,
   {
-    name: "Job IT",
+    name: "CHAT-APP",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Full Stack Chat App Project with realtime messaging fuctionality with socket.io. Supports one on one chat as well as group chatting functionality.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "express",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "node",
         color: "pink-text-gradient",
       },
+      {
+        name: "mongodb",
+        color: "orange-text-gradient"
+      },
+      {
+        name: "socket.io",
+        color: "pink-text-gradient"
+      }
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: chatapp,
+    source_code_link: "https://github.com/yashsayy02/mern-chat-app",
   },
+  /*
   {
     name: "Trip Guide",
     description:

@@ -32,6 +32,7 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import chatapp from "./chatapp.png";
 //import tripguide from "./tripguide.png";
 
 export {
@@ -63,5 +64,6 @@ export {
   jobit,
   dp,
   Starfield,
-  nextjs
+  nextjs,
+  chatapp
 };
